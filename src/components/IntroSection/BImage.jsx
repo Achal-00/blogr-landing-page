@@ -1,5 +1,3 @@
-import React from "react";
-
 const width = screen.width;
 
 export default function BImage() {
